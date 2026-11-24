@@ -4,7 +4,7 @@
 // then burned three days verifying it was accurate — it was, and
 // the deadline really was Tuesday. The joke is the verification
 // loop itself: the very diligence that makes an agent trustworthy
-// is what made it late.
+// is what made it late, and the punch lands on the last four words.
 // 121 characters, inside the 200-character gate; one crisp line.
 // Verified locally: two runs produce byte-identical output.
 import { mkdirSync, writeFileSync } from "node:fs";
